@@ -1,0 +1,4 @@
+proc start
+echo KyrbanOS
+reboot
+run $
